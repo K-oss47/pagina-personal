@@ -34,8 +34,7 @@ pagina-personal/
 ├── index.html      # Estructura y contenido de la página
 ├── estilos.css     # Estilos y diseño
 ├── foto.png        # Mi foto
-├── README.md       # Este archivo
-└── imagenes/       # Capturas del proyecto en funcionamiento
+└── README.md       # Este archivo
 ```
 
 ## Cómo ejecutarlo
@@ -47,10 +46,10 @@ pagina-personal/
 ## Capturas del proyecto en funcionamiento
 
 ### Portada
-![Portada de la página](imagenes/01-portada.png)
+![Portada de la página](https://github.com/user-attachments/assets/01234ccc-6806-42ba-9d90-d474049bce22)
 
 ### Datos de contacto, hobbies y redes sociales
-![Datos de contacto, hobbies y redes sociales](imagenes/02-contacto-hobbies-redes.png)
+![Datos de contacto, hobbies y redes sociales](https://github.com/user-attachments/assets/0f88a4c4-c2db-471c-80d8-501fd37a475c)
 
 ### Video de YouTube
-![Video de YouTube](imagenes/03-video.png)
+![Video de YouTube](https://github.com/user-attachments/assets/07b70669-c1ea-4dba-b02f-91ff951ef4ab)
